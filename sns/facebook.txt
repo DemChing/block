@@ -209,7 +209,6 @@
 12N1216
 17vdowatch
 1amedia
-1amedia
 3starfortune
 520AllenChen
 6uodaily
@@ -243,7 +242,6 @@ army.articles
 aroundtheworld01
 articleshar
 astrology888
-auntienews
 auntienews
 awesomeinscott
 azcyl82
@@ -282,7 +280,6 @@ bottle5920
 Bottlefun
 bown1M
 boygirilthis
-bp2world
 bp2world
 breakingnews308
 BreakingNewsx
@@ -430,7 +427,6 @@ girllovewe
 girlplaytest
 Girls2Talk
 GirlsSaveHK
-GirlsSaveHK
 givememagic
 giveyoufun2000
 globalchinesenewsunion
@@ -514,18 +510,12 @@ hfoyuan1
 historicalepoch
 history.article
 HKbadguys
-HKbadguys
 hkfunmovies
 hkgreenhat
-hkgreenhat
 hklaughpic
-hklaughpic
-HKLocalPress
 HKLocalPress
 hkon9
 hkon9a
-hkon9a
-hkon9apresident
 hkon9apresident
 hlllssww
 horonote
@@ -765,7 +755,6 @@ nvshengtiing
 oathandlies
 omgnews.cc
 on9president
-on9president
 ONE.PIECE.LAW.TW
 onefunnyjoke
 ong126
@@ -826,7 +815,6 @@ randomtopage
 Readmoreandmoregood
 ReadwithWhitejade
 redelephantnewsmy
-RememberYourMum
 RememberYourMum
 richlife8
 Right.tw
@@ -966,7 +954,6 @@ watanabenoamifanpage
 WDUS978
 WeAllLoveToLaugh
 weareplasticomg
-weareplasticomg
 WeFullySupportprdap
 whyhow.online
 wisdomlife66
@@ -1016,3 +1003,4 @@ zhaocai9682
 zheng6988
 zhengnengliangde
 zhiliaozhengmei
+kknews.cc
